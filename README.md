@@ -6,8 +6,6 @@
 (windows wont let you do it, so you have to open your console cd your project root directory and run <code>mv .env.example .env</code> )</li>
 <li>Open the console and cd your project root directory</li>
 <li>Run <code>composer install</code> or <code>php composer.phar install</code></li>
-<li>Run <code>php artisan key:generate</code></li>
 <li>Run <code>php artisan migrate</code></li>
-<li>Run <code>php artisan db:seed</code> to run seeders, if any.</li>
 <li>Run <code>php artisan serve</code></li>
 </ul>
